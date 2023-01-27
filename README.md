@@ -1,5 +1,6 @@
 # QRCodeProject
-a.Net Framework project,Once the camera placed on QRCODE should redirect the URL of the link generated in the codes.
+
+.Net Framework project,Once the camera placed on QRCODE should redirect the URL of the link generated in the codes.
 Those are main Packages used
 ============================
 1.QRCodeGenerator
